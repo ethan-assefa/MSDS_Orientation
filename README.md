@@ -16,4 +16,5 @@ You can edit text with "*" to make text italics or "**" to make it bold
 Here are the links to resources I utilized in writing this document and properly formatting it:
 
 <https://github.com/skills/communicate-using-markdown>
+
 <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
