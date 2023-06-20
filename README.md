@@ -5,9 +5,11 @@ A repository for the information I will learn from the technical orientation
 There are a number of important things to understand when formatting a Markdown document.
 
 Headers are set with a "#" or hashtag
+
 ### This is an example header
 
 You can edit text with "*" to make text italics or "**" to make it bold
+
 *This part is italic* but from **here on it is bold**
 
 > Important things should probably recieve a quotation with the ">" symbol
